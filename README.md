@@ -1,6 +1,4 @@
-# oggm_tools
-
-## Introduction 
+## Introduction `oggm_tools`
 This is a collection of useful OGGM workflows beyond the very good tutorials published 
 on the [OGGM website](https://tutorials.oggm.org/stable). 
 
@@ -12,7 +10,6 @@ OGGM is based on the RGI. The [GLIMS Viewer](https://www.glims.org/maps/glims) i
 
 **Note**: the OGGM resources get constantly updated so some of the used code snippets might look differently now.
 
----
 
 ## Examples in this repository:
 
